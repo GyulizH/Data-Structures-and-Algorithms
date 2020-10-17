@@ -233,3 +233,12 @@ bst.add(8)
 bst.add(9)
 console.log(bst.findMinHeight())
 console.log(bst.inOrder())
+
+
+let arr = [1,2,3,5]
+console.log(arr[5])
+
+let obj = {
+    title: "hey"
+}
+console.log(obj.upper)
